@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+streamlit
+onnx
+onnxruntime
+skl2onnx
