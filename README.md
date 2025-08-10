@@ -25,3 +25,4 @@ User-friendly prediction input.
 
 Press Predict to see the model output.
 
+link to try :http://192.168.1.7:8501
